@@ -8,4 +8,3 @@ CLI version, based on python 3.
 
 2. wx_crcompare.py
 GUI version, based on python 2.7 w/wxPython.
-- 
